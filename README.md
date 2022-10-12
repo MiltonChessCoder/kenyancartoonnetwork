@@ -26,15 +26,17 @@ https://kenyancartoonnetwork.web.app/
 
 
 [Go Back to the top]()
-## Technology Used
+
+
+## Main Technology Used
+* ReactJS - is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
+
+## Other Technologies
 * HTML - is the markup language used to build the structure of the pages.
 
 * CSS - is the Cascading Style Sheets used to style the pages and make it visually appealing
 
 * JavaScript - is the Programming Language for the Web,it can update and change both HTML and CSS and can calculate, manipulate and validate data.
-
-## Main Technology Used
-* ReactJS - is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
 
 
 
